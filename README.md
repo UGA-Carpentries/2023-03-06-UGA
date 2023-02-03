@@ -1,4 +1,4 @@
-##Programming with Python##
+Programming with Python
 
 Date: 6-7 Mar 2023
 
